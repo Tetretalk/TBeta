@@ -21,8 +21,9 @@ gems:
 links:
   - title: Home
     url: /
-  - title: Admin Panel
-    url: /admin/
+  - title: Back to normal tetretalk
+    url: https://tetretalk.gq
+    external: true
   - title: Rules
     url: /rules/
   - title: Discord
